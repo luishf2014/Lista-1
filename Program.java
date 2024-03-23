@@ -28,6 +28,8 @@ public class Program {
 
         // Ex14.executar();
 
-        Ex15.executar();
+        // Ex15.executar();
+
+        Ex16.executar();
     }
 }
