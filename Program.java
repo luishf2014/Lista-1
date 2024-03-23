@@ -8,6 +8,8 @@ public class Program {
 
         // Ex04.executar();
 
-        Ex05.executar();
+        // Ex05.executar();
+
+        Ex06.executar();
     }
 }
