@@ -3,7 +3,7 @@ import java.util.Scanner;
 // LISTA  DE EXERCÍCIOS 1
 
 public class Ex02 {
-    public static void main(String[] args){
+    public static void executar(){
         Scanner leitor = new Scanner(System.in);
 
         System.out.println("informe os números: ");
@@ -15,6 +15,7 @@ public class Ex02 {
 
         System.out.println("A soma dos números são: " + soma);
 
+        leitor.close();
     }
 }
 
