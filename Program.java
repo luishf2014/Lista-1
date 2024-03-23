@@ -32,6 +32,8 @@ public class Program {
 
         // Ex16.executar();
 
-        Ex17.executar();
+        // Ex17.executar();
+
+        Ex18.executar();
     }
 }
