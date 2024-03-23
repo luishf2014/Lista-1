@@ -3,7 +3,7 @@ import java.util.Scanner;
 // LISTA  DE EXERCÍCIOS 1
 
 public class Ex01 {
-    public static void main(String[] args){
+    public static void executar(){
         
         Scanner leitor = new Scanner(System.in);
         
@@ -18,6 +18,12 @@ public class Ex01 {
         else if (num1 <= 10) {
             System.out.println("Número "+ num1 + " é menor ou igual a 10!");
         }
+
+        leitor.close();
+
     }
 }
 
+// Escreva  um  algoritmo  que  leia  um  número  digitado  pelo  usuário  e  mostre  a 
+// mensagem “Número maior do que 10!”, caso este número seja maior, ou “Número 
+// menor ou igual a 10!”, caso este número seja menor ou igual. 
