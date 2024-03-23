@@ -22,6 +22,8 @@ public class Program {
 
         // Ex11.executar();
 
-        Ex12.executar();
+        // Ex12.executar();
+
+        Ex13.executar();
     }
 }
