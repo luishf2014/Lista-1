@@ -36,6 +36,8 @@ public class Program {
 
         // Ex18.executar();
 
-        Ex19.executar();
+        // Ex19.executar();
+
+        Ex20.executar();
     }
 }
