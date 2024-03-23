@@ -16,6 +16,8 @@ public class Program {
         
         // Ex08.executar();
 
-        Ex09.executar();
+        // Ex09.executar();
+
+        Ex10.executar();
     }
 }
