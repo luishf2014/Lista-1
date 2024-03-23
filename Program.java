@@ -14,6 +14,8 @@ public class Program {
 
         // Ex07.executar();
         
-        Ex08.executar();
+        // Ex08.executar();
+
+        Ex09.executar();
     }
 }
