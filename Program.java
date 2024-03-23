@@ -18,6 +18,8 @@ public class Program {
 
         // Ex09.executar();
 
-        Ex10.executar();
+        // Ex10.executar();
+
+        Ex11.executar();
     }
 }
